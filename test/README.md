@@ -34,6 +34,8 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 Срок выполнения до 19 июня, Понедельник. Если будут вопросы – пиши 😊
 
+https://v2.vuetifyjs.com/en/
+
 https://openweathermap.org/api/one-call-3#current
 
 https://openweathermap.org/api/geocoding-api
