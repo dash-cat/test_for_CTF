@@ -1,16 +1,16 @@
 <template>
-  <v-app>
-    <c-home></c-home>
+  <v-app class="100Vh">
+    <weather/>
   </v-app>
 </template>
 
 <script>
-import CHome from './components/CHome'
+import Weather from './components/Weather'
 
 export default {
   name: 'App',
   components: {
-    CHome
+    Weather
   }
 }
 </script>

@@ -13,7 +13,8 @@
     "roboto-fontface": "*",
     "v-textfield": "^0.1.4",
     "vue": "^2.5.17",
-    "vuetify": "^1.2.0"
+    "vuetify": "^1.2.0",
+    "vuex": "^2.5.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.5",
